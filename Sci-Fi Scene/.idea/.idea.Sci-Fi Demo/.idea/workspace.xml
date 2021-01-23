@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83e45031-cc0a-4f96-a3a8-3ac18ab11cab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scirpts/LookY.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scirpts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scirpts/LookX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scirpts/Destructible.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@3.0.1/PostProcessing/Runtime/PostProcessDebug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Game/Scirpts/Coin.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Game/Scirpts/LookX.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scirpts/LookY.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scirpts/MoveTo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scirpts/Coin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scirpts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scirpts/SharkShop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scirpts/Destructible.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Scirpts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Level_Dont_Touch/Standard Assets/Utility/ForcedReset.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game/Level_Dont_Touch/Standard Assets/Utility/SimpleActivatorMenu.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nC8qVWpLiFAaDnjTT0hSfjPw5X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611155884854">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1611155884854" />
+  </component>
+</project>
